@@ -22,9 +22,3 @@ def play ():
         print(f"computer winnn \n {computer} beat {user} ")
     
 print(play())
-
-        
-        
-
-
-
